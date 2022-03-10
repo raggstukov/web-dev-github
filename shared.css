@@ -1,0 +1,20 @@
+body {
+  text-align: center;
+  background-color: rgb(233, 215, 207);
+  margin: 50px;
+  color: rgb(83, 75, 75);
+}
+
+a {
+  color: rgb(167, 1, 78);
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+  color: green;
+}
+
+h1 {
+  font-family: sans-serif;
+  color: gray;
+}

@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    background-color: rgb(180, 207, 105);
+}
+p{
+color: black;}
+a:hover{
+    cursor: move;
+    text-decoration: greenyellow;
+}
